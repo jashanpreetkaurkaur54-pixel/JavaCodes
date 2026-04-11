@@ -1,1 +1,1 @@
-FactorialRecursion 
+ArmstrongNumber
