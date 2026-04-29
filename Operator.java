@@ -1,4 +1,4 @@
-class  operator1  {
+class  Operator1  {
 public static void main(String[] args) {
 int x = 10;
 int result = x++ + ++x;
